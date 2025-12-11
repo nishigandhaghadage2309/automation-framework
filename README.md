@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# automation-framework
-=======
 # automation-framework
 
 SDET automation framework (Selenium + TestNG + RestAssured)
